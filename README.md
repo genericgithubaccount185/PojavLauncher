@@ -131,5 +131,5 @@ Any code change to this repository (or iOS) should be submitted as a pull reques
 - [pro-grade](https://github.com/pro-grade/pro-grade) (Java sandboxing security manager): [Apache License 2.0](https://github.com/pro-grade/pro-grade/blob/master/LICENSE.txt).
 - [xHook](https://github.com/iqiyi/xHook) (Used for exit code trapping): [MIT and BSD-style licenses](https://github.com/iqiyi/xHook/blob/master/LICENSE).
 - [libepoxy](https://github.com/anholt/libepoxy): [MIT License](https://github.com/anholt/libepoxy/blob/master/COPYING).
-- [virglrenderer](https://github.com/PojavLauncherTeam/virglrenderer): [MIT License](https://gitlab.freedesktop.org/virgl/virglrenderer/-/blob/master/COPYING).
+- [zink](https://github.com/artdeell/zink-mesa): [MIT License](https://gitlab.freedesktop.org/mesa/mesa/-/blob/main/docs/license.rst).
 - Thanks to [MCHeads](https://mc-heads.net) for providing Minecraft avatars.
